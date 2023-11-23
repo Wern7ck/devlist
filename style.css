@@ -24,7 +24,8 @@ body {
   font-family: "Playfair Display", serif;
 }
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   padding: 24px;
   margin: 42px auto 0;
   text-align: center;
